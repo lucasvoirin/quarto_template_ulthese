@@ -1,2 +1,2 @@
 # quarto_template_ulthese
-Quarto book template for ulthese LaTeX class
+This repository provides a [Quarto](https://quarto.org/) book template for the [ulthese LaTeX class](https://www.ctan.org/pkg/ulthese).
